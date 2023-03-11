@@ -1,0 +1,8 @@
+ORACLE BASEBALL LEAGUE STORE
+
+Business Rules :
+1. Teams and individual customers are free to purchase any item from the inventory list.
+2. Customers can represent a team when they purchase uniforms and equipment on behalf of the team.
+
+Problem:
+1. 
